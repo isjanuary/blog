@@ -63,7 +63,7 @@ React.createElement(
   [...children]
 )
 ```
-有了这个基础，之后在源码里我们如果看到生命周期的 render 方法调用，自行将其脑补成
+有了这个基础，之后在源码里我们如果看到生命周期的 render 方法调用，自行将其扩展为
 ```
 render() {
 	return React.createElement(
