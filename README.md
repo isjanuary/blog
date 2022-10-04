@@ -6,4 +6,4 @@ react fiber 架构译文： [react-fiber-architecture.md](https://github.com/isj
 
 ---
 
-test push
+test ssh
